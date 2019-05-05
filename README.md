@@ -4,18 +4,18 @@ Fly Away Home Game
 Files Included:
 html_doc
 Bird.java 
-bird
+bird.jpg
 Creature.java
 Fly.java
-fly
+fly.jpg
 FlyWorld.java
 FlyWorldGUI.java
 Frog.java
-frog
+frog.jpg
 GridLocation.java
 Predator.java
 Spider.java
-spider
+spider.jpg
 world0.txt
 world1.txt
 
